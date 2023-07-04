@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+// Added the domain.
 
-module.exports = nextConfig
+const nextConfig = {
+    images: {
+        domains: ["cloud.appwrite.io","links.papareact.com"],
+    },
+};
+
+module.exports = nextConfig;
