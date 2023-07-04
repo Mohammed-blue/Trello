@@ -11,8 +11,8 @@
     // go to .env.local and copy all, and past it all in the Environment variables in the settings.
 // 8) now re-run the build. vercel
 // 9) to deploy to production, use vercel --prod. https://trello-appwrite-clone1copy.vercel.app
-// 10) go to Appwrite and select your project and paste in the following https://trello-appwrite-clone1copy.vercel.app
-//
+// 10) go to Appwrite and select your project and paste in the following trello-appwrite-clone1copy.vercel.app
+//   under Hostname in place of localhostand Update it.
 
 /**
  * This project is a note taking application that allows users to create, view, and delete notes. The application is built using NextJs, Typescript, Appwrite, Tailwind CSS, React Beautiful DND, Zustand, and OpenAI. The application is deployed on Vercel.
